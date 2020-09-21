@@ -1,4 +1,4 @@
-<h1>Exercícios de Struct em Lingaugem C </h1>
+<h1>Exercícios de Struct em Linguagem C </h1>
 <p> Lista </p>
 
 
