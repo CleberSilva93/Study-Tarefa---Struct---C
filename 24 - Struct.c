@@ -202,10 +202,7 @@ void list_ordem_alf(){
             ordem[j+1]= aux;
           }
         }
-        printf("\n %d\n", ordem[i]);
       }
-
-      printf("\nApós a ordenação %d\n", ult);
     for ( i = 0; i < ult; i++)
     {
         exibircontato(ordem[i], 1);
@@ -219,7 +216,7 @@ void excluircontato(){
     char escolha[11], nome[100];
     int cont=ult, i, j, retornos=0;
     setbuf(stdin,NULL);
-    printf("\n\n*** Remover contato da agenda ***\n\n");
+    printf("\n\n*** Remover o contato da agenda ***\n\n");
     printf("Digite o nome do contato\n:>");
     fgets(nome, 99,stdin);
     for ( i = 0; i < ult+1; i++)
