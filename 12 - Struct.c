@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <locale.h>
-// #include <unistd.h>
-// #include <conio.h>
+#include <unistd.h>
+#include <conio.h>
 #include <stdlib.h>
-// #include <string.h>
+#include <string.h>
 #include<time.h>
 
 struct{
